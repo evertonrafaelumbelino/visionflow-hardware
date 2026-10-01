@@ -58,7 +58,7 @@ Para compilar e enviar o firmware para os microcontroladores, certifique-se de p
 1. Clone este repositório em sua máquina local:
 
 ```bash
-git clone [https://github.com/evertonrafaelumbelino/visionflow-hardware.git](https://github.com/evertonrafaelumbelino/visionflow-hardware.git)
+git clone https://github.com/evertonrafaelumbelino/visionflow-hardware.git
 ```
 2. Abra a pasta visionflow-hardware no Visual Studio Code.
 
