@@ -1,0 +1,17 @@
+# Diretório de build gerado pelo PlatformIO
+.pio/
+
+# Bibliotecas gerenciadas automaticamente pelo PlatformIO
+.piolibdeps/
+
+# Configurações locais do VSCode (específicas de cada máquina)
+.vscode/
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+*.log
+*.pyc
+__pycache__/
